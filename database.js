@@ -8,7 +8,7 @@ var database={
   open:0,
   error:"",
   errorcode:0,
-  synchost: "http://195.168.1.8:88",
+  synchost: "http://192.168.1.8:88",
   synctimer: 900,   // seconds
   deviceid: "",
   user:"",
